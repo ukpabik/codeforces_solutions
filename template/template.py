@@ -1,7 +1,7 @@
 import sys
 input = sys.stdin.readline
 
-############ ---- Input Functions ---- ############
+############ ---- Input ian---- ############
 def inp():
     return(int(input()))
 def inlt():
